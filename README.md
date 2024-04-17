@@ -1,6 +1,10 @@
-### Hello There :wave:
+![Header](./github-header-image.png)
 
-_I like writing clean code_
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,spring,rust,react,html,css&theme=light)](https://skillicons.dev)
+
+![](https://komarev.com/ghpvc/?username=GuptaRoshan&color=green)
+
+**I write clean code**
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning  _**Rust**_
