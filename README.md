@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image_2.png)
 
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,spring,rust,react,html,css&theme=light)](https://skillicons.dev)
 
