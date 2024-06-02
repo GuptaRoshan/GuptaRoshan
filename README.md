@@ -12,3 +12,15 @@
 - 💬 Ask me about anything related to _**Javascript, Typescript, Java, Springboot, Data Structures, Machine Learning**_
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/roshngupta)
 - ⚡ Fun fact : I like Stock trading
+
+<!-- Comment Example -->
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=GuptaRoshan&show_icons=true&bg_color=00000000" alt="Roshan's GitHub stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuptaRoshan&layout=compact" alt="Top Langs"></td>
+  </tr>
+</table>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/GuptaRoshan/github-readme-quotes)
+
