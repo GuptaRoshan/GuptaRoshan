@@ -21,6 +21,3 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuptaRoshan&layout=compact" alt="Top Langs"></td>
   </tr>
 </table>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/GuptaRoshan/github-readme-quotes)
-
