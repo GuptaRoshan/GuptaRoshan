@@ -18,8 +18,8 @@
 </br>
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=GuptaRoshan&show_icons=true&bg_color=00000000" alt="Roshan's GitHub stats"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuptaRoshan&layout=compact" alt="Top Langs"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=GuptaRoshan&show_icons=true&bg_color=#FFFFFF" alt="Roshan's GitHub stats"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuptaRoshan&layout=compact&bg_color=#FFFFFF" alt="Top Langs"></td>
     </tr>
   </table>
 </br>
