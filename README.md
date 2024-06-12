@@ -13,8 +13,6 @@
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/roshngupta)
 - ⚡ Fun fact : I like Stock trading
 
-<!-- Comment Example -->
-
 </br>
   <table>
     <tr>
