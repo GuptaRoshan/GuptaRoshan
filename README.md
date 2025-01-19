@@ -13,6 +13,7 @@
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/roshngupta)
 - ⚡ Fun fact : I like Stock trading
 
+
 <!-- 
 </br>
   <table>
@@ -24,5 +25,5 @@
 </br>
 -->
 
-</br> [![GitHub Streak](https://streak-stats.demolab.com/?user=GuptaRoshan&theme=default)](https://git.io/streak-stats)
+<!--  </br> [![GitHub Streak](https://streak-stats.demolab.com/?user=GuptaRoshan&theme=default)](https://git.io/streak-stats) -->
 
