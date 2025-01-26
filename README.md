@@ -14,7 +14,7 @@
 - ⚡ Fun fact : I like Stock trading
 
 
-<!-- 
+
 </br>
   <table>
     <tr>
@@ -23,7 +23,7 @@
     </tr>
   </table>
 </br>
--->
+
 
 <!--  </br> [![GitHub Streak](https://streak-stats.demolab.com/?user=GuptaRoshan&theme=default)](https://git.io/streak-stats) -->
 
