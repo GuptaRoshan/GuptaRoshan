@@ -7,11 +7,10 @@
 **I write clean code**
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning  **`Go Lang`**
+- 🌱 I’m currently learning  **`Go Lang, Python and ML`**
 - 👯 I’m looking to collaborate on anything cool
 - 💬 Ask me about anything related to **`Java, Springboot, Javascript, Typescript, Data Structures, Machine Learning`**
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/roshngupta)
-- ⚡ Fun fact : I like Stock trading
 
 
 <!-- 
@@ -25,5 +24,5 @@
 </br>
 -->
 
-<!--  </br> [![GitHub Streak](https://streak-stats.demolab.com/?user=GuptaRoshan&theme=default)](https://git.io/streak-stats) -->
+</br> [![GitHub Streak](https://streak-stats.demolab.com/?user=GuptaRoshan&theme=default)](https://git.io/streak-stats)
 
